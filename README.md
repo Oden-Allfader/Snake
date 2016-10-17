@@ -6,13 +6,13 @@ Every time Ogrix eats a golden sphere he grows in size and you as a player gain 
 If Ogrix hits himself or the walls he dies and you lose.
 
 Features:
-Bump & texture mapping
-Hellish skybox
-Phong shading
-Lava with waves and a moving normal map for added realism
-Different camera modes: You can either play with the classic snake view from above or with an immersive 3rd person view
-Ogrix is always moving forward and you can only change his direction
-There is a high score which adds to the replay value of the game
+Bump & texture mapping.
+Hellish skybox.
+Phong shading.
+Lava with waves and a moving normal map for added realism.
+Different camera modes: You can either play with the classic snake view from above or with an immersive 3rd person view.
+Ogrix is always moving forward and you can only change his direction.
+There is a high score which adds to the replay value of the game.
 
 # Controls 
 Left and Right arrow to turn
