@@ -25,3 +25,5 @@ Z to change rendering mode: Triangles, Lines and Points
 
 X to change Camera mode: Behind head, infront of head and above. 
 
+## Requirements
+This so far only works with Visual Studio 2015 installed (?) and/or compile it as well. 
